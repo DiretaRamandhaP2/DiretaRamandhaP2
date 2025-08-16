@@ -1,12 +1,6 @@
-## Wellcome 😁😁
-![My Wife](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnJwdXdrbGZwM2l2MGwzZWhybXp4N2NoNmEzdnF5ZHFmZmo2NGRpeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ruhRMwYZkcJ8q7QtqV/giphy.gif)
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M2R4NXJsdnF5aDByZG9ndHB0aHJxODVvN25vZmVzYnhrZzh2d291YyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/O7BiwhQWkElhsfLDb8/giphy.gif" alt="My Wife" width="100%" />
+<h1 style="text-align:center;">🎉Wellcome🎉</h1>
+
 <!--
 **DiretaRamandhaP2/DiretaRamandhaP2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
