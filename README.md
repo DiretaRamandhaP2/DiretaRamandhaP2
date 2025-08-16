@@ -1,5 +1,4 @@
 
-
 <!--
 **DiretaRamandhaP2/DiretaRamandhaP2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![DiretaRamandhaP2](img/github-header-banner%20(1).png)
+![DiretaRamandhaP2](img/github-header-banner%20(3).png)
