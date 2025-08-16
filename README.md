@@ -1,5 +1,6 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M2R4NXJsdnF5aDByZG9ndHB0aHJxODVvN25vZmVzYnhrZzh2d291YyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/mmTryQtQnk57B3PhkG/giphy.gif" alt="My Wife" width="100%" />
-<h1 style="text-align:center;">🎉Wellcome🎉</h1>
+
+<h1 align="center">🎉WELLCOME🎉</h1>
 
 <!--
 **DiretaRamandhaP2/DiretaRamandhaP2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +18,4 @@ Here are some ideas to get you started:
 -->
 
 ![DiretaRamandhaP2](img/github-header-banner%20(3).png)
-![https://www.instagram.com/direta_ramandha_p/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://id.linkedin.com/in/direta-ramandha-pratama-080611290](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
+![https://www.instagram.com/direta_ramandha_p/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://id.linkedin.com/in/direta-ramandha-pratama-080611290](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://www.instagram.com/direta_ramandha_p/](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
