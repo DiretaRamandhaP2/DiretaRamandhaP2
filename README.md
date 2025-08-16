@@ -20,7 +20,27 @@ Here are some ideas to get you started:
 ![DiretaRamandhaP2](img/github-header-banner%20(3).png)
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/direta_ramandha_p) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://id.linkedin.com/in/direta-ramandha-pratama-080611290) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.instagram.com/direta_ramandha_p/)
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/direta_ramandha_p) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://id.linkedin.com/in/direta-ramandha-pratama-080611290) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)]() -->
+<br>
+    <br>
+    <br>
 
 
 </div>
+<h3 align="center">SKILL💻</h3>
+<br>
+<br>
+<div align="center">
+    <h4 align="left">- Langue</h4>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,cs,cpp,dart,py" />
+    <br>
+    <br>
+    <h4 align="left">- Framework</h4>
+    <img src="https://skillicons.dev/icons?i=laravel,flutter,bootstrap" />
+    <br>
+    <br>
+    <h4 align="left">- Other</h4>
+    <img src="https://skillicons.dev/icons?i=figma," />
+</div>
+
+
