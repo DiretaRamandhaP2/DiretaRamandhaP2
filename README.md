@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 <div align="center">
-    <h4 align="left">- Langue</h4>
+    <h4 align="left">- Language</h4>
     <img src="https://skillicons.dev/icons?i=html,css,javascript,php,cs,cpp,dart,py" />
     <br>
     <br>
