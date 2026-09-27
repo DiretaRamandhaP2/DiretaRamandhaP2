@@ -54,16 +54,15 @@ I started my coding journey during my first year at vocational school, majoring 
 
 **My GitHub Activity**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiretaRamandhaP2&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=DiretaRamandhaP2&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 **Contribution Streak**
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=DiretaRamandhaP2&theme=midnight-purple&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=DiretaRamandhaP2&theme=midnight-purple&hide_border=false)<br/>
 
 **Most Used Languages**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DiretaRamandhaP2&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DiretaRamandhaP2&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
 ---
